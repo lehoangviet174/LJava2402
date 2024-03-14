@@ -1,0 +1,132 @@
+#box1 {
+    height: 486px;
+    width: 278px;
+    border: 1px solid #7E9DC8;
+    background: #DAE8FC;
+    text-align: center;
+}
+
+.home {
+    background: #FEF2CD;
+    border: 2px solid hsl(33, 81%, 50%);
+    display: inline block;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    position: relative;
+    left: 35px;
+    top: 15px;
+    font-size: 26px;
+    padding-top: 20px;
+}
+
+.users {
+    background: #FEF2CD;
+    border: 2px solid hsl(33, 81%, 50%);
+    display: inline block;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    position: relative;
+    left: 35px;
+    top: 25px;
+    font-size: 26px;
+    padding-top: 20px;
+}
+
+.products {
+    background: #FEF2CD;
+    border: 2px solid hsl(33, 81%, 50%);
+    display: inline block;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    position: relative;
+    left: 35px;
+    top: 35px;
+    font-size: 26px;
+    padding-top: 20px;
+}
+
+.orders {
+    background: #FEF2CD;
+    border: 2px solid hsl(33, 81%, 50%);
+    display: inline block;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    position: relative;
+    left: 35px;
+    top: 45px;
+    font-size: 26px;
+    padding-top: 20px;
+}
+
+.customers {
+    background-color: hsl(51, 30%, 95%);
+    border: 2px solid hsl(60, 0%, 52%);
+    display: inline block;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    position: relative;
+    left: 286px;
+    top: -50px;
+    font-size: 26px;
+    padding-top: 20px;
+}
+
+.admins {
+    background-color: hsl(51, 30%, 95%);
+    border: 2px solid hsl(60, 0%, 52%);
+    display: inline block;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    position: relative;
+    left: 286px;
+    top: -50px;
+    font-size: 26px;
+    padding-top: 20px;
+}
+
+.vip {
+    background-color: hsl(51, 30%, 95%);
+    border: 2px solid hsl(60, 0%, 52%);
+    display: inline block;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    position: relative;
+    left: 286px;
+    top: -50px;
+    font-size: 26px;
+    padding-top: 20px;
+}
+
+.mystaffs {
+    background-color: hsl(51, 30%, 95%);
+    border: 2px solid hsl(60, 0%, 52%);
+    display: inline block;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    position: relative;
+    left: 286px;
+    top: -50px;
+    font-size: 26px;
+    padding-top: 20px;
+}
+
+.users:hover #box2 {
+    display: block;
+}
+
+#box2 {
+    display: none;
+}
+
+p {
+    position: relative;
+    bottom: -113px;
+}

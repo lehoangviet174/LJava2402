@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.product-card {
+    width: 650px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
+
+.product-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.product-info {
+    margin-bottom: 20px;
+}
+
+.giatien {
+    color: #3182CE;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+
+/* Giá sản phẩm */
+
+.product-price {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+/* Nút */
+
+.button-container {
+    text-align: left;
+    margin-top: 15px;
+}
+
+.buy-now-button {
+    background-color: #3182CE;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-to-cart-button {
+    background-color: #ccc;
+    color: 000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

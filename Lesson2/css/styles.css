@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-left: 50px;
+}
+
+#p2 {
+    color: brown;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 14px;
+}
+
+.p3 {
+    color: green;
+    font-size: 20px;
+    background-image: url('../image-background.jpg')
+}
+
+* {
+    font-family: "Noto Sans JP", sans-serif;
+}

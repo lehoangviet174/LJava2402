@@ -1,0 +1,54 @@
+#progress {
+    background-color: whitesmoke;
+    border: 2px solid red;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.progress-bar {
+    height: 10px;
+    background: #ECF2F6;
+    margin: 15px;
+}
+
+.progress-percent {
+    height: 100%;
+    width: 30%;
+    background: #38A068;
+}
+
+.progress-bar2 {
+    height: 20px;
+    background: #ECF2F6;
+    margin: 15px;
+}
+
+.progress-percent2 {
+    height: 100%;
+    width: 30%;
+    background: #38A068;
+}
+
+.progress-bar3 {
+    height: 30px;
+    background: #ECF2F6;
+    margin: 15px;
+}
+
+.progress-percent3 {
+    height: 100%;
+    width: 30%;
+    background: #38A068;
+}
+
+.progress-bar4 {
+    height: 40px;
+    background: #ECF2F6;
+    margin: 15px;
+}
+
+.progress-percent4 {
+    height: 100%;
+    width: 30%;
+    background: #38A068;
+}
